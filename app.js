@@ -1,5 +1,6 @@
 
 var BMR;
+var btn;
 
 var createBtn = document.querySelector('#btn');
 createBtn.onclick = function () {
